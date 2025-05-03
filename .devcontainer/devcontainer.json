@@ -8,6 +8,9 @@
   "features": {
     "ghcr.io/va-h/devcontainers-features/uv:1": {
       "version": "0.6.4"
+    },
+    "ghcr.io/devcontainers/features/node:1": {
+      "version": "22.15.01"
     }
   },
   "customizations": {
